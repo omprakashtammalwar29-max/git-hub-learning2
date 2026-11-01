@@ -3,6 +3,8 @@ using namespace std;
 
 int main()
 {
-    cout << "I AM VS CODE 2" << endl;
+    cout << "Learning Git and GitHub!" << endl;
+    cout << "This is my second version." << endl;
+
     return 0;
 }
